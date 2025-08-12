@@ -1,2 +1,2 @@
 # imt2200_actividad1
-Edite este archivo agregando información útil para quien lo revise.
+Hola este es mi repositorio en donde por esta vez hice la actividad 01, modifiqué algunos colores y tamaños para probar los nuevos comandos espero que esté bien si no tendré que estar triste, próximamente subiré más actividades que me vayan pidiendo :)
